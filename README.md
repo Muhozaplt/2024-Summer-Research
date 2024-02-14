@@ -1,6 +1,6 @@
 # 2024-Summer-Research
-Astrophysics Vacation Research Experience Scheme (VRES) in 2024. 
-Investigation of AGN contamination of UVJ colour-colour diagram
+Astrophysics Vacation Research Experience Scheme (VRES) of 2024. 
+Investigation of AGN contamination on UVJ colour-colour diagram
 
 # ABSTRACT
 The contamination of AGN (Active Galactic Nucleus) emissions is believed to
